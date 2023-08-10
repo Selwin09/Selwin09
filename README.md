@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Selwin
-- 👀 I’m interested in software developer 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 interested in Web Developement and SE 
+- 🌱 I’m currently learning java, Angular
 
 <!---
 Selwin09/Selwin09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
